@@ -69,6 +69,7 @@ The projects will be graded based on two presentations given in class:
 
 ## Links
 
+* [Grades spreadsheet](https://docs.google.com/spreadsheets/d/12Stspm905BNUe4tT0zSyX5qpVT-MyzA9zeD2HE4uA20/edit?usp=sharing)
 * [Anonymous feedback form](https://forms.gle/yELcs24WhjtW1JYv5)
 * [Couse in USOS](https://www.usosweb.uj.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=WMI.II-WZUM-S)
 * [Syllabus](https://sylabus.uj.edu.pl/pl/document/e5e152c4-54ec-487f-823a-de691d82e8f7.pdf)
