@@ -16,8 +16,8 @@ Unless it is decided otherwise, the classes will take place stationary, with all
 
 * 4.03 - Course logistics, Machine Learning and PyTorch recap **(remote, via MS Teams!)**
 * 11.03 - Classification uncertainty, model calibration, early exit networks
-* 18.03 - Semi-supervised learning
-* 25.03 - project topics consultations
+* 18.03 - project topics consultations
+* 25.03 - Semi-supervised learning
 * 1.04 - project presentations
 * 8.04 - TBA
 * 15.04 - Easter break (no class)
