@@ -16,11 +16,12 @@ Unless it is decided otherwise, the classes will take place stationary, with all
 
 * 4.03 - Course logistics, Machine Learning and PyTorch recap **(remote, via MS Teams!)**
 * 11.03 - Classification uncertainty, model calibration, early exit networks
-* 18.03 - project topics consultations
-* 25.03 - Semi-supervised learning
-* 1.04 - project presentations
-* 8.04 - TBA
+* 18.03 - project topics consultations **(remote, via MS Teams!)**
+* 25.03 - Semi-supervised learning **(remote, via MS Teams!)**
+* 1.04 - project presentations (1)
+* 8.04 - project presentations (2)
 * 15.04 - Easter break (no class)
+* 22.04 - Autoencoders + discrete latent 
 
 
 ### Prerequisites
@@ -71,6 +72,7 @@ The projects will be graded based on two presentations given in class:
 
 * [Grades spreadsheet](https://docs.google.com/spreadsheets/d/12Stspm905BNUe4tT0zSyX5qpVT-MyzA9zeD2HE4uA20/edit?usp=sharing)
 * [Anonymous feedback form](https://forms.gle/yELcs24WhjtW1JYv5)
+* [Project topics and presentations guidelines](https://docs.google.com/document/d/1Xr49OjhKMTZu1Cxmz3b1exezXf9OWDgnlo3IzuYEhtw/edit?usp=sharing)
 * [Couse in USOS](https://www.usosweb.uj.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=WMI.II-WZUM-S)
 * [Syllabus](https://sylabus.uj.edu.pl/pl/document/e5e152c4-54ec-487f-823a-de691d82e8f7.pdf)
 
