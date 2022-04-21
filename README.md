@@ -22,6 +22,9 @@ Unless it is decided otherwise, the classes will take place stationary, with all
 * 8.04 - project presentations (2)
 * 15.04 - Easter break (no class)
 * 22.04 - Autoencoders + discrete latent 
+* 29.04 - Conditional models
+* 6.05 - Hypernetworks
+
 
 
 ### Prerequisites
