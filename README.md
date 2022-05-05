@@ -23,7 +23,12 @@ Unless it is decided otherwise, the classes will take place stationary, with all
 * 15.04 - Easter break (no class)
 * 22.04 - Autoencoders + discrete latent 
 * 29.04 - Conditional models
-* 6.05 - Hypernetworks
+* 6.05 - Multilabel classification
+* 13.05 - HyperNetworks 
+* 20.05 - TBA
+* 27.05 - final project presentations (1)
+* 3.06 - final project presentations (2)
+* 10.06 - final project presentations (3)
 
 
 
